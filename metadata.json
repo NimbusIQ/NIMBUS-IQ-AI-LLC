@@ -1,5 +1,7 @@
 {
   "description": "Nimbus IQ AI, LLC - Official Website with Gemini Integration",
-  "requestFramePermissions": [],
+  "requestFramePermissions": [
+    "microphone"
+  ],
   "name": "Nimbus IQ AI "
 }
